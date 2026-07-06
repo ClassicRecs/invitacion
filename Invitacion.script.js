@@ -73,4 +73,6 @@ function abrirInvitacion() {
 
 if (botonVerInvitacion) {
     botonVerInvitacion.addEventListener("click", abrirInvitacion);
+    
 }
+
